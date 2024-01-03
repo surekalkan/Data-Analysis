@@ -1,4 +1,4 @@
-# Data-Analysis# NumPy ve Pandas Temelleri
+# NumPy ve Pandas Temelleri
 
 Bu repository, NumPy ve Pandas kütüphanelerini kullanarak yapılan işlemleri içermektedir.
 
@@ -8,13 +8,9 @@ Bu repository, NumPy ve Pandas kütüphanelerini kullanarak yapılan işlemleri 
    - NumPy'nin temel fonksiyonlarına genel bir giriş.
    - Matris oluşturma, indeksleme ve dilimleme işlemleri.
 
-   [NumPy Temel İşlemler Notebook](link_to_notebook1.ipynb)
-
 2. **Pandas İle Veri Analizi**
    - Pandas DataFrame'inin temel kullanımı.
    - Veri filtreleme, gruplama ve birleştirme işlemleri.
-
-   [Pandas Veri Analizi Notebook](link_to_notebook2.ipynb)
 
 ## Gereksinimler
 
